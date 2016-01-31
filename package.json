@@ -1,0 +1,32 @@
+{
+  "name": "is-semver",
+  "version": "1.0.0",
+  "description": "Check if an input value is a valid semver version or not.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "semver",
+    "valid",
+    "check",
+    "validate"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "dependencies": {
+    "semver": "^5.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/is-semver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/is-semver/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/is-semver#readme"
+}
