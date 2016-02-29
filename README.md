@@ -40,6 +40,9 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
+- [kanpai](https://github.com/egoist/kanpai) - An alternative to `npm publish`
+- [nwjs](https://github.com/egoist/nwjs) - NW.js version manager
+
 ## License
 
 [MIT][license] © [Ionică Bizău][website]
