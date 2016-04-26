@@ -1,14 +1,18 @@
+
 # is-semver [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/is-semver.svg)](https://www.npmjs.com/package/is-semver) [![Downloads](https://img.shields.io/npm/dt/is-semver.svg)](https://www.npmjs.com/package/is-semver) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Check if an input value is a valid semver version or not.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save is-semver
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const isSemver = require("is-semver");
@@ -23,7 +27,8 @@ console.log(isSemver("foo"));
 // => false
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `isSemver(input)`
 Checks if the input value is a valid semver version.
@@ -34,16 +39,22 @@ Checks if the input value is a valid semver version.
 #### Return
 - **Boolean** Returns `true` if the input is a valid semver version or `false` otherwise.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
-- [kanpai](https://github.com/egoist/kanpai) - An alternative to `npm publish`
-- [nwjs](https://github.com/egoist/nwjs) - NW.js version manager
 
-## License
+ - [`gpm`](https://github.com/IonicaBizau/gpm)—npm + git = gpm - Install NPM packages and dependencies from git repositories.
+ - [`kanpai`](https://github.com/egoist/kanpai#readme) (by EGOIST)—🍻  Kanpai to publish a new version of your module!
+ - [`nwjs`](https://github.com/egoist/nwjs#readme) (by EGOIST)—Install nw.js prebuilts using npm
+ - [`nwjs-bf`](https://github.com/kruemelo/nwjs-bf#readme) (by kruemelo)—Install SDK/NaCl nw.js prebuilts using npm
+ - [`nwjs-versions`](https://github.com/egoist/nwjs-versions#readme) (by EGOIST)—Get all available nw.js versions.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
