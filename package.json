@@ -1,6 +1,6 @@
 {
   "name": "is-semver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if an input value is a valid semver version or not.",
   "main": "lib/index.js",
   "directories": {
@@ -28,5 +28,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/is-semver/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/is-semver#readme"
+  "homepage": "https://github.com/IonicaBizau/is-semver#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
