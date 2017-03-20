@@ -1,6 +1,6 @@
 {
   "name": "is-semver",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Check if an input value is a valid semver version or not.",
   "main": "lib/index.js",
   "directories": {
@@ -15,7 +15,7 @@
     "check",
     "validate"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "dependencies": {
     "semver": "^5.1.0"
@@ -33,12 +33,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
