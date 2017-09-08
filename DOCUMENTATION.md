@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Checks if the input value is a valid semver version.
 
 #### Params
+
 - **String** `input`: The input value.
 
 #### Return
