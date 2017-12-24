@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save is-semver
+# Using npm
+npm install --save is-semver
+
+# Using yarn
+yarn add is-semver
 ```
 
 
@@ -39,7 +43,9 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
+
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
 
 
 ## :memo: Documentation
@@ -83,9 +89,11 @@ Thanks! :heart:
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
 
+ - [`cl-gen`](https://github.com/tiaanduplessis/cl-gen) (by tiaanduplessis)—Generate markdown changelog from git commits
  - [`generator-cosmia`](https://github.com/theoutliar/generator-cosmia#readme) (by Christopher J Gore)—Yeoman generator for cosmia
  - [`gpm`](https://github.com/IonicaBizau/gpm)—npm + git = gpm - Install NPM packages and dependencies from git repositories.
  - [`kanpai`](https://github.com/egoist/kanpai#readme) (by EGOIST)—🍻  Kanpai to publish a new version of your module!
+ - [`nuup`](https://github.com/pablopunk/nuup) (by Pablo Varela)—Yet another npm publish. For me.
  - [`nwjs`](https://github.com/egoist/nwjs#readme) (by EGOIST)—Install nw.js prebuilts using npm
  - [`nwjs-bf`](https://github.com/kruemelo/nwjs-bf#readme) (by kruemelo)—Install SDK/NaCl nw.js prebuilts using npm
  - [`nwjs-versions`](https://github.com/egoist/nwjs-versions#readme) (by EGOIST)—Get all available nw.js versions.
