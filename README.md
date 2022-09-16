@@ -176,28 +176,29 @@ Thanks! :heart:
 ## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - `nwjs`
  - `nwjs-versions`
- - `kanpai`
- - `nwjs-bf`
- - `generator-cosmia`
- - `cl-gen`
- - `generator-front2-app`
- - `generator-wp-app`
- - `@jaebradley/fruit`
- - `nuup`
- - `@isysd/gpm`
- - `android-builder-fork`
- - `teasim-scripts`
- - `@thumbtack/changelog-lint`
- - `@ff0000-ad-tech/tmpl-build-sources`
- - `wp-plugin`
- - `maf-cli`
- - `lsi-soar`
- - `@starsoul/fruit`
+ - `nwjs`
  - `@ff0000-ad-tech/wp-creative-server`
- - `turtle-cli`
+ - `@ff0000-ad-tech/tmpl-build-sources`
+ - `@thumbtack/changelog-lint`
+ - `android-builder-fork`
+ - `lsi-soar`
+ - `tnwjs`
  - `gpm`
+ - `turtle-cli`
+ - `@starsoul/fruit`
+ - `maf-cli`
+ - `wp-plugin`
+ - `generator-wp-app`
+ - `nwjs2`
+ - `@isysd/gpm`
+ - `@jaebradley/fruit`
+ - `generator-front2-app`
+ - `nwjs-bf`
+ - `cl-gen`
+ - `@licq/tnwjs`
+ - `nuup`
+ - `generator-cosmia`
 
 
 
