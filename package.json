@@ -1,6 +1,6 @@
 {
   "name": "is-semver",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Check if an input value is a valid semver version or not.",
   "main": "lib/index.js",
   "directories": {
